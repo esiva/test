@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>test</name>
-	<url>http://sample.com/1</url>
+	<url>http://sample.com/2</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
