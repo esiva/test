@@ -9,7 +9,7 @@
     <!-- test comment 1 -->
     
 	<name>test</name>
-	<url>http://sample.com/20</url>
+	<url>http://sample.com/22</url>
 	<properties>
 		<java.version>1.8</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
